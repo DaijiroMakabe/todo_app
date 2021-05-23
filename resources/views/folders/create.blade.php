@@ -8,11 +8,6 @@
   <link rel="stylesheet" href="/css/styles.css">
 </head>
 <body>
-  <header>
-    <nav class="my-navbar">
-      <a class="my-navbar-brand" href="/">ToDo App</a>
-    </nav>
-  </header>
   <main>
   @extends('layout')
 
